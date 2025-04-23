@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
 end
 
-# tzinfo and tzinfo-data for time zone handling on Windows
+# tzinfo and tzinfo-data for time zone handling on Windows (if your os is not window, cmment the lines below!!)
 gem "tzinfo", "~> 1.2"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0"

@@ -1,12 +1,6 @@
 #initialize gemfile (if there is no gem file)
 docker run --rm -v "$PWD:/srv/jekyll" jekyll/jekyll:pages jekyll new . --force
 
-# install 
-docker compose run --rm jekyll bundle install
 
-# run compose
+# build using compose file
 docker compose up --build
-
-or
-
-docker compose up
