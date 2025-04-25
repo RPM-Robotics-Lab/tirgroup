@@ -59,14 +59,6 @@ h6 {
 
 .img-centered {
     margin: 0 auto;
-    display: block;
-}
-
-.fixed-size {
-    width: 640px;
-    height: 480px;
-    object-fit: cover;  /* 원본 비율 유지하며 꽉 채우기 */
-    /* object-fit: contain;  원본 비율 유지하며 온전하게 보이게 (여백 생김) */
 }
 
 .bg-light-gray {
