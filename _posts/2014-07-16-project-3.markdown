@@ -1,15 +1,15 @@
 ---
 title: Thermal-RGB translation
-subtitle: Method name
+subtitle: Label distillation for TIR images
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: Graphical.png
+thumbnail: overview.png
 alt: image-alt
-project-date: April 2014
-code: https://github.com/chaehyeonsong/discocal
-maintainer: Donggu-Lee
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2023
+code: https://github.com/RPM-Robotics-Lab/sRGB-TIR.git
+maintainer: Dong-Guw Lee
+description: Use our RGB-TIR translation to steal labels from RGB image=based dataset and train your own network. Our translation network can preserve objects in the translated images well while preserving thermal image characteristics. 
 
 ---

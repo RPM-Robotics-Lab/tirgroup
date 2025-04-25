@@ -48,13 +48,13 @@ people:
       url: http://linkedin.com/in/chaehyeonsong
 
 - name: Dong-Guw Lee
-  pic: 2
-  position: Ph.D. student
+  pic: ldg
+  position: Ph.D. Candidate
   social:
     - title: github
-      url: https://github.com/chaehyeonsong
+      url: https://github.com/donkeymouse
     - title: linkedin
-      url: http://linkedin.com/in/chaehyeonsong
+      url: https://www.linkedin.com/in/david-lee-4a2841103/
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
 #   - title: twitter
