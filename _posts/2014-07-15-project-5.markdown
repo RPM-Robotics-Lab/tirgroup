@@ -1,0 +1,15 @@
+---
+title: TRansPose Dataset
+subtitle: Large-Scale Multispectral Dataset for Transparent Object
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: jyk.gif
+thumbnail: jyk.gif
+alt: image-alt
+project-date: April 2014
+code: https://sites.google.com/view/transpose-dataset/home?authuser=0
+maintainer: Jeongyun Kim
+description: This dataset provides image set obtained from a multispectral sensing module(RGB, RGB-D and Thermal infrared) to specialize in transparent object recognition.
+
+---
