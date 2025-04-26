@@ -1,15 +1,15 @@
 ---
-title: Calibration
-subtitle: discocal
+title: Discocal
+subtitle: Versatile camera calibration tool
+type: algorithm
 layout: default
 modal-id: 2
 date: 2025-04-23
-img: escape.png
-thumbnail: calibration-thumbnail.jpg
+img: discocal.gif
+thumbnail: discocal-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
-code: https://github.com/chaehyeonsong/discocal
+site: https://github.com/chaehyeonsong/discocal
 maintainer: Chaehyeon-Song
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Traditional camera calibration methods don't work on TIR cameras. Discocal utilises a circular pattern and a bimetal plate, effectively handling issues on TIR images.
 ---

@@ -1,6 +1,7 @@
 ---
 title: Preprocessing
 subtitle: FieldScale
+type: algorithm
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -8,7 +9,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
-code: https://github.com/chaehyeonsong/discocal
+site: https://github.com/chaehyeonsong/discocal
 maintainer: Hyunjae-Gil
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 

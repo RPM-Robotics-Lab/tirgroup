@@ -2,13 +2,14 @@
 title: MIRAGE Dataset
 subtitle: Large Scale Aligned RGB=TIR dataset for RGB-to-TIR translation
 layout: default
+type: dataset
 modal-id: 4
 date: 2014-07-17
 img: mirage_fig1.png
 thumbnail: mirage_fig1.png
 alt: image-alt
 project-date: March 2025
-code: https://github.com/RPM-Robotics-Lab/sRGB-TIR.git
+site: https://github.com/RPM-Robotics-Lab/sRGB-TIR.git
 maintainer: Dong-Guw Lee
 description: Large scale aligned RGB-TIR dataset with great diversity and quantity. It can be used to scale up to lager models, including Stable Diffusion models.
 

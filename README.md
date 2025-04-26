@@ -15,6 +15,7 @@ projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
+Note!! type element should be "algorithm" or "dataset"
 
 ### Team
 
