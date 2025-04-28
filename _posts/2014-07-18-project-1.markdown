@@ -1,16 +1,16 @@
 ---
 title: Preprocessing
-subtitle: FieldScale
+subtitle: FieldScale - 14-bit TIR image rescaling
 type: algorithm
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2024-05-18
+img: fieldscale-thumbnail.png
+thumbnail: fieldscale-thumbnail.png
 alt: image-alt
-project-date: April 2014
-site: https://github.com/chaehyeonsong/discocal
-maintainer: Hyunjae-Gil
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2024
+site: https://github.com/HyeonJaeGil/fieldscale
+maintainer: Hyeonjae-Gil
+description: Fieldscale is the state-of-the-art TIR image rescaling (14-to-8 bit conversion) solution, improving global contrast and local details of any TIR camera in real-time.
 
 ---
