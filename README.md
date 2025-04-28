@@ -9,6 +9,11 @@ Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/templ
 ```
 docker compose up --build
 ```
+After the build is complete, go to localhost:4000 (Chrome or other explores) and check whether there is any error. (Do not push or PR before the checking process).
+Revision may not be auto-updated. You may need to build again after the revision.
+
+# Info
+
 ### Proejct (include algorithm and dataset)
 
 projects are in '/_posts'
