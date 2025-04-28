@@ -1,6 +1,6 @@
 ---
-title: Discocal
-subtitle: Versatile camera calibration tool
+title: Camera calibration
+subtitle: Discocal: The versatile camera calibration tool
 type: algorithm
 layout: default
 modal-id: 2
