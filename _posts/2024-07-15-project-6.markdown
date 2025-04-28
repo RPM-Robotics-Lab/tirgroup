@@ -5,12 +5,12 @@ layout: default
 type: dataset
 modal-id: 6
 date: 2014-07-15
-img: sthereo-thumbnail.png
-thumbnail: sthereo-thumbnail.png
+img: sthereo.gif
+thumbnail: sthereo.gif
 alt: image-alt
 project-date: April 2014
 site: https://sites.google.com/view/rpmsthereo/
 maintainer: Seungsang Yun
-description: bla bla bla bla
+description: STheReO introduces a large‐scale Stereo Thermal REsearch Odometry dataset specifically designed to push SLAM and mapping research beyond the visible spectrum. It offers nine sequences collected at three outdoor sites (KAIST campus, Seoul National University campus, and a riverside valley) and at three times of day (morning, afternoon, night) to capture temperature and illumination variation.
 
 ---
