@@ -66,6 +66,15 @@ people:
     # - title: linkedin
     #   url: https://www.linkedin.com/in/david-lee-4a2841103/
 
+- name: Hyunsoo Jang
+  pic: hyunsoo
+  position: Masters Student
+  social:
+    - title: github
+      url: https://github.com/bronto3082SNU
+    # - title: linkedin
+    #   url: https://www.linkedin.com/in/david-lee-4a2841103/
+
     
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
