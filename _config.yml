@@ -75,6 +75,15 @@ people:
     # - title: linkedin
     #   url: https://www.linkedin.com/in/david-lee-4a2841103/
 
+- name: Ayoung Kim
+  pic: ak_huron
+  position: Professor
+  social:
+    - title: github
+      url: https://github.com/ayoungk
+    - title: linkedin
+      url: https://www.linkedin.com/in/ayoung-kim-53798a8/
+
     
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:

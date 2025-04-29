@@ -11,5 +11,5 @@ alt: image-alt
 project-date: April 2014
 site: https://github.com/chaehyeonsong/discocal
 maintainer: Chaehyeon-Song
-description: Traditional camera calibration methods don't work on TIR cameras. Discocal utilises a circular pattern and a bimetal plate, effectively handling issues on TIR images.
+description: Traditional camera calibration methods don't work on TIR cameras. <br> Discocal utilises a circular pattern and a bimetal plate, effectively handling issues on TIR images.
 ---
