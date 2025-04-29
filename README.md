@@ -29,6 +29,8 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
+The image size should be 900 x 900 pixel
+
 <!-- ### About
 
 Images are in '/img/about/' -->

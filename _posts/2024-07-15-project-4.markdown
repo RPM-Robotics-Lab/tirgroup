@@ -3,7 +3,7 @@ title: STheReO Dataset
 subtitle: Stereo Thermal Dataset for Research in Odometry and Mapping
 layout: default
 type: dataset
-modal-id: 6
+modal-id: 4
 date: 2014-07-15
 img: sthereo.gif
 thumbnail: sthereo.gif

@@ -3,7 +3,7 @@ title: MIRAGE Dataset
 subtitle: Large Scale Aligned RGB=TIR dataset for RGB-to-TIR translation
 layout: default
 type: dataset
-modal-id: 4
+modal-id: 6
 date: 2014-07-17
 img: mirage_fig1.png
 thumbnail: mirage_fig1.png
