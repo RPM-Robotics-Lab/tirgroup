@@ -10,7 +10,7 @@ thumbnail: mirage_fig1.png
 alt: image-alt
 project-date: March 2025
 site: https://github.com/RPM-Robotics-Lab/sRGB-TIR.git
-maintainer: Dong-Guw Lee
+maintainer: Dong-Guw Lee, Hyunsoo Jung
 description: Large scale aligned RGB-TIR dataset with great diversity and quantity. It can be used to scale up to lager models, including Stable Diffusion models.
 
 ---
